@@ -1,6 +1,6 @@
 cask "cluepilot" do
-  version "1.2.2"
-  sha256 "7a04aaf7498bdfcaea1f26b961526f1bbeea8737d9452623602cbc60123b39f2"
+  version "1.3.0"
+  sha256 "f1cdce08d26651ec8ac66a4b786732c60e2fddb3bc58c0554bd60017e4b6c37f"
 
   url "https://github.com/aqkprogrammer/homebrew-tap/releases/download/v#{version}/CluePilot-#{version}.dmg"
   name "CluePilot"
